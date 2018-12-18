@@ -11,13 +11,13 @@
   
   - `String` (Строка)
   
- - `Boolean `(Булев, Логический тип TRUE/FALSE)
+  - `Boolean `(Булев, Логический тип TRUE/FALSE)
  
- - `Null` (Null, ссылка на пустое, не существующее )
+  - `Null` (Null, ссылка на пустое, не существующее )
  
- - `Undefined` (значение НЕ ОПРЕДЕЛЕНО)
+  - `Undefined` (значение НЕ ОПРЕДЕЛЕНО)
  
- - `Symbol` (ES6 читаем)[http://haa.su/EUG/]
+  - `Symbol` (ES6 читаем)[http://haa.su/EUG/]
 
 - 7  `Object` (Объекы/Массивы/Функции/JSON) 
 
