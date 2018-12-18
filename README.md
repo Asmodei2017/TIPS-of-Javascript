@@ -17,7 +17,7 @@
  
  - `Undefined` (значение НЕ ОПРЕДЕЛЕНО)
  
- - `Symbo`l (ES6 читаем)[http://haa.su/EUG/]
+ - `Symbol` (ES6 читаем)[http://haa.su/EUG/]
 
 - 7  `Object` (Объекы/Массивы/Функции/JSON) 
 
